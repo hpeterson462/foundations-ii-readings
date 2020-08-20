@@ -1,0 +1,5 @@
+# Project Ideas & APIs
+
+* One project idea I have is to make a nutrition app that doesn't count calories. Being healthy and eating right doesn't mean obsessing over food and calorie restriction. It's about eating things in moderation and having a healthy balance of foods. The app would have a list of daily foods groups that would have a target amount to hit. Once it's achieved, the food would be crossed off the list for the day. There might also be a link to a website for more information about healthy, whole foods. Nutritionix API looks like it would have common food data that could be used. 
+
+* After looking through the APIs list, the other idea I had was to have a kind of Pomodoro timer that uses inspirational programming quotes. There is a programming quotes API that could be used. The niche market would target programmers and dev students. The user would put in however much time they want to work, and then, when the time is up, a programming quote would appear on the screen to remind the user to take a break...and that this is fine. 
